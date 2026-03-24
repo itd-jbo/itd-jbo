@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jonas
-- 👀 I’m interested in Pizza
 - 🌱 I’m working @itd
 
 <!---
